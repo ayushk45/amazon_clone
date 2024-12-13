@@ -1,0 +1,70 @@
+.hero-sec p {
+  margin-bottom: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#remove-btn {
+  margin-top: 15px;
+  background-color: #ffd600;
+  border-radius: 15px;
+  padding: 10px 10px 10px 10px;
+  border: transparent;
+}
+#remove-btn:hover {
+  cursor: pointer;
+  background-color: #ffc400;
+}
+#emp-cont {
+  display: flex;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+#img-div {
+  margin-right: 20px;
+  margin-left: 25px;
+}
+#img-div img {
+  width: 300px;
+}
+#msg-div {
+  margin-top: 25px;
+}
+#msg-div h1 {
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+.sign-btn {
+  padding: 5px 10px 5px 11px;
+  font-size: 16px;
+  border-radius: 20px;
+}
+#signIn-btn {
+  margin-right: 10px;
+
+  background-color: #ffd600;
+  border: none;
+}
+#signIn-btn:hover {
+    cursor: pointer;
+    background-color: #ffc400;
+}
+#signUp-btn {
+  border: 1px solid #9e9e9e;
+}
+#signUp-btn:hover {
+    cursor: pointer;
+    background-color: #E0E0E0;
+}
+#msg-div a {
+  display: block;
+  color: #00838F;
+  text-decoration: none;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+#p-text-cont p {
+  margin-top: 100px;
+  margin-bottom: 140px;
+  font-size: 13px;
+  margin-left: 25px;
+}

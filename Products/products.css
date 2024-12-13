@@ -1,0 +1,39 @@
+.hero-sec {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  text-align: center;
+}
+.hero-sec button {
+  margin-bottom: 80px;
+}
+
+.hero-sec img {
+  height: 65%;
+  width: 80%;
+  padding: 10px 0px 20px 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.hero-sec h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 10px;
+}
+.hero-sec button {
+  margin-top: 15px;
+  background-color: #ffd600;
+  border-radius: 15px;
+  padding: 10px 10px 10px 10px;
+  border: transparent;
+}
+.hero-sec button:hover {
+  cursor: pointer;
+  background-color: #ffc400;
+}
+.prod-div {
+  margin-bottom: 50px;
+}
+.prod-div p {
+  margin-bottom: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
